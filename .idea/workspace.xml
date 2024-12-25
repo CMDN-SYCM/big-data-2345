@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="09c4a8a2-bb20-4d89-9737-5fc687e15b16" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2jJpaVytUL8UtL2ez1TbP4N5hXC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/大学/大三下学期/大数据专业实习/分组研发/小组_11/项目代码&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="09c4a8a2-bb20-4d89-9737-5fc687e15b16" name="更改" comment="" />
+      <created>1721115098840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721115098840</updated>
+      <workItem from="1721115100033" duration="3024000" />
+      <workItem from="1721179504118" duration="245000" />
+      <workItem from="1721186762678" duration="312000" />
+      <workItem from="1721187080485" duration="351000" />
+      <workItem from="1721199852162" duration="414000" />
+      <workItem from="1721200274105" duration="796000" />
+      <workItem from="1721283169515" duration="14000" />
+      <workItem from="1721285554004" duration="36000" />
+      <workItem from="1721285597719" duration="857000" />
+      <workItem from="1721286508907" duration="719000" />
+      <workItem from="1721297403240" duration="2867000" />
+      <workItem from="1721355085836" duration="470000" />
+      <workItem from="1721356775544" duration="54000" />
+      <workItem from="1724572936984" duration="16000" />
+      <workItem from="1725247222037" duration="859000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$keshihua.coverage" NAME="keshihua 覆盖结果" MODIFIED="1721187231615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hkdatavisual" />
+    <SUITE FILE_PATH="coverage/$Interactive_page.coverage" NAME="Interactive_page 覆盖结果" MODIFIED="1721355109227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hkdatavisual" />
+    <SUITE FILE_PATH="coverage/$ONE_keshihua.coverage" NAME="ONE_keshihua 覆盖结果" MODIFIED="1721285723117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hkdatavisual" />
+    <SUITE FILE_PATH="coverage/$hive_keshihua.coverage" NAME="hive_keshihua 覆盖结果" MODIFIED="1721200588991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hkdatavisual" />
+    <SUITE FILE_PATH="coverage/$loadclean.coverage" NAME="loadclean 覆盖结果" MODIFIED="1721117216338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hkdataloadclean" />
+    <SUITE FILE_PATH="coverage/$ssh.coverage" NAME="ssh 覆盖结果" MODIFIED="1721117795014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hkdataloadclean" />
+    <SUITE FILE_PATH="coverage/$two_keshihua.coverage" NAME="two_keshihua 覆盖结果" MODIFIED="1721286531975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hkdatavisual" />
+    <SUITE FILE_PATH="coverage/$2345weather.coverage" NAME="2345weather 覆盖结果" MODIFIED="1721299606483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hkdatacollection" />
+    <SUITE FILE_PATH="coverage/$wloadclean.coverage" NAME="wloadclean 覆盖结果" MODIFIED="1721118095776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hkdataloadclean" />
+    <SUITE FILE_PATH="coverage/$.coverage" NAME="数据采集 覆盖结果" MODIFIED="1721115763631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hkdatacollection" />
+  </component>
+</project>
