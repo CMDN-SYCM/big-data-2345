@@ -20,12 +20,12 @@ Navicat Premium 15
 MySQL 8.0.29
 Python-3.9.7
 #### Centos7系统所用程序版本：
-Java Development Kit-8u151
-Hadoop-3.2.0
-Scala-2.12.10
-Hive-3.1.2
-Sqoop-1.4.7
-Python-3.9.0
-mysql-connector-java-8.0.29.jar
-commons-lang-2.6.jar
-guava-14.0.1.jar
+Java Development Kit-8u151 \n
+Hadoop-3.2.0 \n
+Scala-2.12.10 \n
+Hive-3.1.2 \n
+Sqoop-1.4.7 \n
+Python-3.9.0 \n
+mysql-connector-java-8.0.29.jar \n
+commons-lang-2.6.jar \n
+guava-14.0.1.jar \n
