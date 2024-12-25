@@ -1,9 +1,0 @@
-beautifulsoup4==4.12.3
-jieba==0.42.1
-pandas==1.5.3
-pyecharts==2.0.6
-numpy==1.22.3
-PyMySQL==1.1.1
-requests==2.31.0
-streamlit==1.12.0
-altair==4.2.2
